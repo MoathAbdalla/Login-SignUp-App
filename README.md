@@ -33,18 +33,18 @@ git clone https://github.com/your-username/react-login-signup.git
 cd react-login-signup
 npm install
 npm start
+```
 
-Notes:
+## Notes
 
     Currently, the form does not have a backend. Submitting the form shows a success alert.
     The project is ready to integrate with a backend API for full functionality.
     SVGs use camelCase properties compatible with React.
 
-Author
+## Author
 
     Moath Alwahidi
 
     Email: moazalwahidi@gmail.com
 
     LinkedIn: https://www.linkedin.com/in/moath-alwahidi/
-```
