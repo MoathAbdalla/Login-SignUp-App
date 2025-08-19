@@ -37,14 +37,14 @@ npm start
 
 ## Notes
 
-    Currently, the form does not have a backend. Submitting the form shows a success alert.
-    The project is ready to integrate with a backend API for full functionality.
-    SVGs use camelCase properties compatible with React.
+- Currently, the form does not have a backend. Submitting the form shows a success alert.
+- The project is ready to integrate with a backend API for full functionality.
+- SVGs use camelCase properties compatible with React.
 
 ## Author
 
-    Moath Alwahidi
+- **Moath Alwahidi**
 
-    Email: moazalwahidi@gmail.com
+- Email: moazalwahidi@gmail.com
 
-    LinkedIn: https://www.linkedin.com/in/moath-alwahidi/
+- LinkedIn: https://www.linkedin.com/in/moath-alwahidi/
